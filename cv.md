@@ -3,7 +3,7 @@
 * e-mail: tylets11@gmail.com
 * telephone: +375(29)3098990
 ## About me
-
+I'm going to study hard to improve my skills and become a frontend developer as soon as possible. 
 ## Skills
 * HTML
 * CSS
