@@ -1,0 +1,98 @@
+body { 
+    padding: 0;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 1440px;
+}
+.container {
+    width: 1200px;
+    padding: 0 auto;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+.header {
+margin: 0;
+padding: 0;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 0;
+    padding: 0
+}
+.photo {
+    padding: 0;
+    height: 331px;
+}
+.contacts {
+    align-items: center;
+    background-color:black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.contactslist {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.info {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+aside {
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 38px;
+}
+h3 {
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.lang {
+    font-size: 20px;
+    list-style-type: square;
+
+}
+.skills {
+    font-size: 20px;
+    list-style-type: square;
+}
+footer {
+    background-color: gray;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.foot {
+    list-style-type: none;
+    padding: 0;
+}
+.rs {
+    max-width: 100px;
+    max-height: 100px;
+}
+.gh {
+    max-width: 100px;
+    max-height: 100px;
+}
